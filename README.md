@@ -1,11 +1,11 @@
 ### Olá ! Eu sou o Luis Fabiano Dev Front-End 😊
 
-### Minhas Redes
+### Minhas Redes :
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fabiano-junior-927610251/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=11994914822&text&type=phone_number&app_absent=0)
 
-### Minhas Tecnologias
+### Tecnologias que eu uso :
 
 <div style="margin-left:2px">
   <img alt="javascript" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,5 +15,8 @@
   <img alt="javascript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisJuniorPSJ&show_icons=true&theme=radical)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisJuniorPSJ&show_icons=true&theme=radical)
+
